@@ -2,3 +2,4 @@
 ## Version v1.0.0-alpha.1
 ## Version v1.0.0-beta.1
 ## Version v1.0.0-rc.1
+## Version v1.0.0
